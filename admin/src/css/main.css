@@ -1,0 +1,22 @@
+#header {
+    margin-top: 30px;
+}
+
+#footer {
+    background-color: #F5F5F5;
+}
+
+caption {
+    caption-side: top;
+}
+
+@media screen and (max-width: 767px) {
+    aside.left {
+        margin-bottom: 30px;
+    }
+}
+
+img.product-img {
+    max-width: 240px;
+    height: auto;
+}
